@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexdiplomaticu02maiouoft_0023.png"; bbox 0 0 2347 3444; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 353 2599 364 2615">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 2599 364 2615">
+     <span class='ocr_line' id='line_1_1' title="bbox 353 2599 364 2615; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 353 2599 364 2615; x_wconf 67' lang='grc' dir='ltr'>μ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 397 224 1603 3134">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 397 224 1603 3134">
+     <span class='ocr_line' id='line_1_2' title="bbox 397 224 1603 3134; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 397 224 1603 3134; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1656 719 1696 2547">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1656 719 1696 2547">
+     <span class='ocr_line' id='line_1_3' title="bbox 1656 719 1696 2547; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 1656 2457 1678 2547; x_wconf 79' lang='lat' dir='ltr'>veduta</span> <span class='ocrx_word' id='word_1_4' title='bbox 1659 2334 1684 2441; x_wconf 81' lang='lat' dir='ltr'>generale</span> <span class='ocrx_word' id='word_1_5' title='bbox 1659 2283 1680 2318; x_wconf 83' lang='lat' dir='ltr'>dcl</span> <span class='ocrx_word' id='word_1_6' title='bbox 1659 2145 1682 2266; x_wconf 75' lang='lat' dir='ltr'>Convento</span> <span class='ocrx_word' id='word_1_7' title='bbox 1661 2108 1682 2129; x_wconf 79' lang='lat' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_8' title='bbox 1661 2069 1682 2091; x_wconf 27' lang='lat' dir='ltr'>S*</span> <span class='ocrx_word' id='word_1_9' title='bbox 1662 1938 1688 2051; x_wconf 77' lang='lat' dir='ltr'>Agostinn</span> <span class='ocrx_word' id='word_1_10' title='bbox 1663 1901 1684 1922; x_wconf 81' lang='lat' dir='ltr'>di</span> <span class='ocrx_word' id='word_1_11' title='bbox 1664 1805 1690 1882; x_wconf 72' lang='lat' dir='ltr'>Pavia,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1665 1667 1691 1788; x_wconf 75' lang='lat' dir='ltr'>disegnata</span> <span class='ocrx_word' id='word_1_13' title='bbox 1667 1592 1687 1651; x_wconf 73' lang='lat' dir='ltr'>sulla</span> <span class='ocrx_word' id='word_1_14' title='bbox 1667 1532 1688 1576; x_wconf 75' lang='lat' dir='ltr'>fine</span> <span class='ocrx_word' id='word_1_15' title='bbox 1668 1481 1689 1516; x_wconf 84' lang='lat' dir='ltr'>del</span> <span class='ocrx_word' id='word_1_16' title='bbox 1669 1386 1689 1464; x_wconf 75' lang='lat' dir='ltr'><strong>seculo</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1669 1302 1691 1370; x_wconf 73' lang='lat' dir='ltr'>xvuz</span> <span class='ocrx_word' id='word_1_18' title='bbox 1670 1258 1691 1285; x_wconf 75' lang='lat' dir='ltr'>da</span> <span class='ocrx_word' id='word_1_19' title='bbox 1672 1183 1692 1240; x_wconf 72' lang='lat' dir='ltr'>trare</span> <span class='ocrx_word' id='word_1_20' title='bbox 1671 1111 1693 1167; x_wconf 70' lang='lat' dir='ltr'>Gmn</span> <span class='ocrx_word' id='word_1_21' title='bbox 1673 986 1693 1093; x_wconf 69' lang='lat' dir='ltr'>Facundo</span> <span class='ocrx_word' id='word_1_22' title='bbox 1674 875 1695 969; x_wconf 67' lang='lat' dir='ltr'>Moneta</span> <span class='ocrx_word' id='word_1_23' title='bbox 1675 719 1696 856; x_wconf 70' lang='lat' dir='ltr'>Eremitanu.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
